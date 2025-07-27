@@ -1,7 +1,7 @@
 ## Hi there 👋
 ## My name is Yobis
 
-## DESCRIPTION: Young boi trying to learn how to code before he starts his first year at university
+## DESCRIPTION: Full time scroller trying to lock in and learn how to code before he starts his first year at university
 
 <!--
 **i-yobis/i-yobis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
