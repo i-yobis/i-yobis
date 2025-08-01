@@ -1,5 +1,5 @@
 ## Hi there 👋
-##My name is Yobis
+#My name is Yobis
 
 - DESCRIPTION: Full time scroller trying to lock in and learn how to code before he starts his first year at university as an engineering major
 
