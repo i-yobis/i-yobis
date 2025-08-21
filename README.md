@@ -1,7 +1,7 @@
 ## Hi there 👋
 ## My name is Yobis
 
-- DESCRIPTION: Full time scroller trying to lock in and learn how to code before he starts his first year at university as an engineering major
+- DESCRIPTION: Full time doomscroller trying to lock in and learn how to code before he starts his first year at university as a mechanical engineering major
 
 <!--
 **i-yobis/i-yobis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
